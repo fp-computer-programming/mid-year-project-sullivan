@@ -1,6 +1,7 @@
 # Author: CRS 02/10/22
 import random
 def chutes_and_ladders():
+    level = 1
     chutes1 = random.randint(1, 6)
     chutes2 = random.randint(1, 6)
     chutes3 = random.randint(1, 6)
